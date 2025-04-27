@@ -43,6 +43,9 @@ You need Python installed on your system (Python 3.7+ recommended). You can inst
 ```bash
 pip install dash numpy dash_daq plotly pandas scikit-learn rapidfuzz statsmodels
 
+You can also install the dependencies using
+pip install -r requirments.txt
+
 
 Note: Depending on your system setup, you might need to use pip3 instead of pip.
 Running the Dashboard
